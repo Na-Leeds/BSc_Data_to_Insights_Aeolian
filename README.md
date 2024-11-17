@@ -1,4 +1,4 @@
-# BSc. Data to insights to multiple environments (Aeolian)
+# MSc. Data to insights to multiple environments (Aeolian)
 ## Set up a Colab account:<br />
 •	Go to the https://colab.google/<br />
 •	Sign up using your university email or your existing Gmail account.<br />
